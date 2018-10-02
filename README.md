@@ -3,3 +3,7 @@
 2. Change the environment configs in client/src/environments for client variables.
 3. Run 'ng serve' in client directory.
 4. Run 'npm run dev' in server directory.
+
+Has MD Bootstrap for the style. It has basic register/login routes with an updating navbar after logging in. Also comes with basic paginated messaging.
+
+Backend is MongoDB using Feathers for the API and Feathers-Mongoose as an ORM.
