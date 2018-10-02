@@ -6,4 +6,4 @@
 
 Has MD Bootstrap for the style. It has basic register/login routes with an updating navbar after logging in. Also comes with basic paginated messaging.
 
-Backend is MongoDB using Feathers for the API and Feathers-Mongoose as an ORM.
+The backend uses a Mongo database, Feathers for the API and Feathers-Mongoose as an ORM.
