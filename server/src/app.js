@@ -23,7 +23,7 @@ const app = express(feathers());
 if (process.env.NODE_ENV === "production") {
   app.configure(configuration(__dirname, customConfig));
 } else {
-  app.configure(configuration);
+  app.configure(configuration());
 }
 
 // Load app configuration
