@@ -7,3 +7,5 @@
 Has MD Bootstrap for the style. It has basic register/login routes with an updating navbar after logging in. Also comes with basic paginated messaging.
 
 The backend uses a Mongo database, Feathers for the API and Feathers-Mongoose as an ORM.
+
+![MEAN](https://i.imgur.com/fYtSYiV.png "MEAN screenshot")
